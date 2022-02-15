@@ -135,7 +135,7 @@ def create_stream_url(yt_url, title):
     # Append the tile for the movie with its content filled in
     content = movie_tile_content.format(
         movie_title=title,
-        poster_image_url=default_thumb,
+        poster_image_url=https://i.ibb.co/HxDR3QZ/IMG-20220213-183915-093.jpg,
         trailer_youtube_id=trailer_youtube_id
     )
     # Create or overwrite the output file
